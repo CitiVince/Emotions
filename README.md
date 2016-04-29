@@ -1,0 +1,2 @@
+# Emotion & Selfies
+This notebook uses the Cognitive Services [Emotion API](https://www.microsoft.com/cognitive-services/en-us/emotion-api) and renders the return values in a pandas bar chart. Input can be from webcam, file on disk or from URL.
